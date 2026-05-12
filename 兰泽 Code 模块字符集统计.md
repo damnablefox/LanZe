@@ -2,36 +2,36 @@
 
 | 码位范围 | 块名称(英文) | 块名称(中文) | 是否全集收录 | 备注说明 |
 | :------- | :----------- | :----------- | :----------- | :------- |
-| U+0000~U+007F | C0 Controls and Basic Latin        | 基本拉丁字母           | 是 |            |........ 2
-| U+0080~U+00FF | C1 Controls and Latin-1 Supplement | 拉丁字母-1 补充        | 是 |            |........ 8
-| U+0100~U+017F | Latin Extended-A                   | 拉丁字母扩充A          | 是 |            |........ 13
-| U+0180~U+024F | Latin Extended-B                   | 拉丁字母扩充B          | 是 |            |........ 18
-| U+0250~U+02AF | IPA Extensions                     | 国际音标扩充           | 是 |            |........ 25
-| U+02B0~U+02FF | Spacing Modifier Letters           | 进格修饰字符           | 否 | 未收录注13 |........ 30
-| U+0300~U+036F | Combining Diacritical Marks        | 组合用区分符           | 否 | 未收录注14 |........ 34
-| U+0370~U+03FF | Greek and Coptic                   | 希腊字母和科普特字母   | 否 | 未收录注1  |........ 38
-| U+0400~U+04FF | Cyrillic                           | 西里尔字母             | 否 | 未收录注2  |........ 42
-| U+1E00~U+1EFF | Latin Extended Additional          | 拉丁字母扩充增补       | 是 |            |........ 204
-| U+2000~U+206F | General Punctuation                | 广义标点               | 否 | 未收录注3  |........ 218
-| U+2070~U+209F | Superscripts and Subscripts        | 上标与下标             | 是 |            |........ 224
-| U+20A0~U+20CF | Currency Symbols                   | 货币符号               | 是 |            |........ 226
-| U+2100~U+214F | Letterlike Symbols                 | 类字母符号             | 否 | 未收录注4  |........ 231
-| U+2150~U+218F | Number Forms                       | 数字形式               | 是 |            |........ 236
-| U+2190~U+21FF | Arrows                             | 箭头                   | 否 | 未收录注5  |........ 239
-| U+2200~U+22FF | Mathematical Operators             | 数学运算符             | 否 | 未收录注6  |........ 242
-| U+2300~U+23FF | Miscellaneous Technical            | 零杂技术用符号         | 否 | 未收录注7  |........ 249
-| U+2400~U+243F | Control Pictures                   | 控制字符图标           | 否 | 未收录注8  |........ 255
-| U+2460~U+24FF | Enclosed Alphanumerics             | 带圈和括号的数字与字母 | 是 |            |........ 258
-| U+2500~U+257F | Box Drawing                        | 制表符                 | 是 |            |........ 262
-| U+2580~U+259F | Block Elements                     | 方块元素               | 是 |            |........ 265
-| U+25A0~U+25FF | Geometric Shapes                   | 几何图形符             | 否 | 未收录注9  |........ 266
-| U+2600~U+26FF | Miscellaneous Symbols              | 零杂符号               | 否 | 未收录注10 |........ 269
-| U+2E00~U+2E7F | Supplemental Punctuation           | 补充标点               | 否 | 未收录注11 |........ 324
-| U+3000~U+303F | CJK Symbols and Punctuation        | CJK符号与标点          | 否 | 未收录注12 |........ 341
-| U+FE10~U+FE1F | Vertical Forms                     | 竖式标点               | 是 |            |........ 1234
-| U+FE30~U+FE4F | CJK Compatibility Forms            | CJK兼容形式            | 是 |            |........ 1236
-| U+FF00~U+FFEF | Halfwidth and Fullwidth Forms      | 半角形式和全角形式     | 是 |            |........ 1244
-| U+FFF0~U+FFFF | Specials                           | 特殊字符               | 否 | 未收录注15 |........ 1251
+| U+0000~U+007F | C0 Controls and Basic Latin        | C0 控制字符和基本拉丁字母    | 是 |            |........ 2
+| U+0080~U+00FF | C1 Controls and Latin-1 Supplement | C1 控制字符和拉丁字母-1 补充 | 是 |            |........ 8
+| U+0100~U+017F | Latin Extended-A                   | 拉丁字母扩充A                | 是 |            |........ 13
+| U+0180~U+024F | Latin Extended-B                   | 拉丁字母扩充B                | 是 |            |........ 18
+| U+0250~U+02AF | IPA Extensions                     | 国际音标扩充                 | 是 |            |........ 25
+| U+02B0~U+02FF | Spacing Modifier Letters           | 进格修饰字符                 | 否 | 未收录注13 |........ 30
+| U+0300~U+036F | Combining Diacritical Marks        | 组合用区分符                 | 否 | 未收录注14 |........ 34
+| U+0370~U+03FF | Greek and Coptic                   | 希腊字母和科普特字母         | 否 | 未收录注1  |........ 38
+| U+0400~U+04FF | Cyrillic                           | 西里尔字母                   | 否 | 未收录注2  |........ 42
+| U+1E00~U+1EFF | Latin Extended Additional          | 拉丁字母扩充增补             | 是 |            |........ 204
+| U+2000~U+206F | General Punctuation                | 广义标点                     | 否 | 未收录注3  |........ 218
+| U+2070~U+209F | Superscripts and Subscripts        | 上标与下标                   | 是 |            |........ 224
+| U+20A0~U+20CF | Currency Symbols                   | 货币符号                     | 是 |            |........ 226
+| U+2100~U+214F | Letterlike Symbols                 | 类字母符号                   | 否 | 未收录注4  |........ 231
+| U+2150~U+218F | Number Forms                       | 数字形式                     | 是 |            |........ 236
+| U+2190~U+21FF | Arrows                             | 箭头                         | 否 | 未收录注5  |........ 239
+| U+2200~U+22FF | Mathematical Operators             | 数学运算符                   | 否 | 未收录注6  |........ 242
+| U+2300~U+23FF | Miscellaneous Technical            | 零杂技术用符号               | 否 | 未收录注7  |........ 249
+| U+2400~U+243F | Control Pictures                   | 控制字符图标                 | 否 | 未收录注8  |........ 255
+| U+2460~U+24FF | Enclosed Alphanumerics             | 带圈和括号的数字与字母       | 是 |            |........ 258
+| U+2500~U+257F | Box Drawing                        | 制表符                       | 是 |            |........ 262
+| U+2580~U+259F | Block Elements                     | 方块元素                     | 是 |            |........ 265
+| U+25A0~U+25FF | Geometric Shapes                   | 几何图形符                   | 否 | 未收录注9  |........ 266
+| U+2600~U+26FF | Miscellaneous Symbols              | 零杂符号                     | 否 | 未收录注10 |........ 269
+| U+2E00~U+2E7F | Supplemental Punctuation           | 补充标点                     | 否 | 未收录注11 |........ 324
+| U+3000~U+303F | CJK Symbols and Punctuation        | CJK符号与标点                | 否 | 未收录注12 |........ 341
+| U+FE10~U+FE1F | Vertical Forms                     | 竖式标点                     | 是 |            |........ 1234
+| U+FE30~U+FE4F | CJK Compatibility Forms            | CJK兼容形式                  | 是 |            |........ 1236
+| U+FF00~U+FFEF | Halfwidth and Fullwidth Forms      | 半角形式和全角形式           | 是 |            |........ 1244
+| U+FFF0~U+FFFF | Specials                           | 特殊字符                     | 否 | 未收录注15 |........ 1251
 
 ---
 
